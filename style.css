@@ -1,0 +1,22 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color:rgb(247, 220, 247);   
+    border-style: ridge;
+    border-color: rgb(245, 242, 199);
+    
+}
+.btn-lg
+{
+    background-color: rgb(247, 233, 155);
+    border-color: greenyellow;
+    font-style:italic;
+}
+
+
